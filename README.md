@@ -20,4 +20,4 @@ To validate the model, the simulation utilizes operational specifications from t
 ## Key Insights
 Running the Merlin 1D configuration outputs a steady choke mass flow rate of **321.85 kg/s** and an exit speed of **Mach 3.60**. The script confirms a separation altitude of **0 meters**, validating that the engine's high chamber pressure successfully maintains fully attached flow even at maximum sea-level atmospheric density.
 ## Simulation Visualization
-![Nozzle Performance Curves](nozzle_plots.png)
+![Nozzle Performance Curves](Nozzle_plots.png)
