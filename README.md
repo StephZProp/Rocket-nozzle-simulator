@@ -1,4 +1,3 @@
-# Rocket-nozzle-simulator
 
 # 1D Rocket Nozzle Performance Simulator
 
