@@ -1,5 +1,5 @@
 # Rocket-nozzle-simulator
-1D Isentropic Nozzle Performance Simulator with Summerfield Separation Check
+
 # 1D Rocket Nozzle Performance Simulator
 
 ## Overview
